@@ -24,6 +24,8 @@ Goal: To create an interactive restaurant platform that not only displays menu i
 
 <img width="942" height="477" alt="img-6" src="https://github.com/user-attachments/assets/4550e7b2-3ae5-4079-a9aa-3b2e6e41bd87" />
 
+<img width="947" height="488" alt="gradient" src="https://github.com/user-attachments/assets/6ed8c632-182e-4078-8b2a-0307154d31fc" />
+
 <img width="943" height="471" alt="Checkout" src="https://github.com/user-attachments/assets/edd02ebb-8b84-4295-b742-ff4ed9333023" />
 
 <img width="930" height="470" alt="Payment method" src="https://github.com/user-attachments/assets/6b92432e-2885-4ed2-aa23-f10c6808aae0" />    
