@@ -1,4 +1,16 @@
-#Fit Restaurant- images
+**Project Overview**
+
+**Name & Theme:** “Healthy & Fresh Food Item / Fit Restaurant” — a web project showcasing healthier food options and food items with nutritional info.      
+Goal: To create an interactive restaurant platform that not only displays menu items but also details about nutrition (calories, fats, protein, etc.), the healthiness of meals, and guidance on who should or shouldn’t consume certain food based on health conditions.
+
+
+**Features**
+
+-Nutrition breakdown: provides macro/micro details like fat, carbohydrates, sugar, protein, calories.     
+-Visual presentation: images of food items, descriptions, likely interactive features in frontend.      
+-Telegram integration: apparently, there is a contact form or similar that sends data (maybe orders or messages) via Telegram using a PHP script.    
+
+**Images**
 
 <img width="938" height="406" alt="img-1" src="https://github.com/user-attachments/assets/c2972a11-a92a-4d68-86e4-a598738c394a" />
 
