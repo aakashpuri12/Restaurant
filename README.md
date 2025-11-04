@@ -4,6 +4,12 @@
 Goal: To create an interactive restaurant platform that not only displays menu items but also details about nutrition (calories, fats, protein, etc.), the healthiness of meals, and guidance on who should or shouldn’t consume certain food based on health conditions.
 
 
+
+## 🚀 Live Demo
+
+👉 [https://pizza-fit-restro.netlify.app/](https://pizza-fit-restro.netlify.app/)  
+
+
 **Features**
 
 -Nutrition breakdown: provides macro/micro details like fat, carbohydrates, sugar, protein, calories.     
